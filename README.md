@@ -1,4 +1,4 @@
-# Hi there, I'm Kartik Singh 👋
+# Hi there, I'm Kartik Singh Gaharwar👋
 
 AI & Data Science Enthusiast | Machine Learning & LLMOps Developer
 
