@@ -8,7 +8,7 @@
   <a href="https://github.com/Mrkarthikgaharwar">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your-mrkarthikgaharwae@gmail.com">
+  <a href="mailto:your-mrkarthikgaharwar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -47,10 +47,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mrkarthikgaharwar&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrkarthikgaharwar&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkarthikgaharwar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
