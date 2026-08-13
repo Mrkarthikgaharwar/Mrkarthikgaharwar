@@ -44,11 +44,12 @@
 
 ### 📊 GitHub Analytics
 
+### 📊 GitHub Analytics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mrkarthikgaharwar&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrkarthikgaharwar&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
 ---
 
 ### 📫 Connect with Me
