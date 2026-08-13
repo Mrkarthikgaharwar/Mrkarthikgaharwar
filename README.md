@@ -17,7 +17,7 @@
 
 <!-- Animated Workspace GIF Banner -->
 <p align="center">
-  <img src="output.gif" alt="Kartik Workspace Animation" width="100%" style="border-radius: 10px;" />
+  <img src="Subtle_cinematic_animation_1-ezgif.com-optimized.gif" alt="Kartik Workspace Animation" width="100%" style="border-radius: 10px;" />
 </p>
 
 ---
